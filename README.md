@@ -9,6 +9,6 @@
 ```
 
 # You can view my R code and plots side-by-side by looking at:
-## <a href="display_plots.html">display_plots.html</a>
+## <a href="http://htmlpreview.github.io/?https://github.com/sarah-michel/ExData_Plotting1/blob/master/display_plots.html">display_plots.html</a>
 
 Thank you!
